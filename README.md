@@ -77,6 +77,7 @@ Esto te mostrará las ramas y cómo se fueron fusionando, permitiéndote entende
 *   [`clase-1-introduccion-uml.md`](./clase-1-introduccion-uml.md): **(Empezar aquí)** Tutorial de la Clase 1.
 *   [`clase-2-diagramas-uml.md`](./clase-2-diagramas-uml.md): Tutorial de la Clase 2.
 *   [`clase-3-principios-patrones-arquitecturas.md`](./clase-3-principios-patrones-arquitecturas.md): Tutorial de la Clase 3.
+*   [`clase-4-fork-independiente.md`](./clase-4-fork-independiente.md): Crea tu propia versión independiente (tipo Cursor/VSCode). Incluye Versionado Semántico (SemVer), tags, releases y CHANGELOG.
 
 **Documentos del Curso:**
 
@@ -87,6 +88,34 @@ Esto te mostrará las ramas y cómo se fueron fusionando, permitiéndote entende
 *   [`diagrama-sistema-completo.md`](./diagrama-sistema-completo.md): Visión general y evolutiva del sistema "Institución Digital" a través de diagramas Mermaid.
 
 ---
+
+## Versionado y Releases del Repositorio
+
+Este repositorio usa **Versionado Semántico (SemVer)** con el formato `vMAJOR.MINOR.PATCH`.
+
+Principios aplicados:
+* Cada incorporación de una nueva clase principal incrementa MINOR.
+* Correcciones y ajustes no disruptivos incrementan PATCH.
+* Cambios estructurales mayores (reorganización profunda del contenido) incrementarán MAJOR.
+
+Recursos y evidencias:
+* Historial de cambios en [`CHANGELOG.md`](./CHANGELOG.md)
+* Tags publicados en la sección Releases de GitHub
+* Ejemplo real de fork independiente en la Clase 4
+
+Ejemplo de comandos (documentación):
+```powershell
+# Crear un tag anotado para la nueva versión
+git tag -a v1.4.0 -m "Release 1.4.0: Clase 4 - Forks independientes y versión propia"
+
+# Ver los tags existentes
+git tag --list
+
+# Subir el tag al repositorio remoto
+git push origin v1.4.0
+```
+
+Después de crear el tag se genera un Release en GitHub copiando la sección correspondiente del CHANGELOG.
 
 ## Tarea del Proyecto Final
 

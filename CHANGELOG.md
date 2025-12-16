@@ -12,24 +12,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
-- Clase 4: Versionado Semántico, Tags, CHANGELOG y Fork Workflow
-- Checklist de evaluación comprehensivo para Clases 1-4
+### Planned
 
-## [1.3.0] - 2025-01-30
+- Ajustes menores de formato Markdown y estandarización de listas
+- Inclusión de ejemplos adicionales de forks académicos de estudiantes
+
+## [1.4.0] - 2025-11-07
 
 ### Added
-- `clase-4-versionado-tags.md`: Tutorial completo sobre versionado semántico, Git tags, CHANGELOG.md y flujo fork→merge→PR
-- `checklist-evaluacion-clases.md`: Checklist de evaluación detallado con rúbrica para las 4 clases
-- Conceptos: Semantic Versioning (MAJOR.MINOR.PATCH), Tags anotados vs lightweight, Keep a Changelog format
-- Tutorial paso a paso: Sistema de categorías para el blog como nueva funcionalidad (v1.2.0)
-- Comandos Git avanzados: tags, remotes upstream, fetch, merge upstream
-- Flujo profesional: merge en fork personal antes de abrir PR al repo central
-- Explicación detallada de .gitignore con patrones comunes
-- Glosario de términos de versionado y releases
+
+- `clase-4-fork-independiente.md`: Clase 4 enfocada en crear una versión independiente (fork producto) con SemVer, tags, CHANGELOG, releases y diferenciación (ejemplos: Cursor, Brave, MariaDB).
+- Sección de Versionado y Releases añadida al `README.md` con comandos de ejemplo y principios de incremento.
+- Ejemplos pedagógicos de aplicación de Semantic Versioning y tags anotados.
 
 ### Changed
-- Actualización del CHANGELOG.md siguiendo el estándar Keep a Changelog
+
+- Corrección de referencia anterior planeada a `clase-4-versionado-tags.md` reemplazada por nombre definitivo `clase-4-fork-independiente.md`.
+- Reorganización de sección Unreleased para reflejar trabajo pendiente real.
+
+### Removed
+
+- Entrada anticipada de Clase 4 en versión previa (se movió a esta versión real del contenido).
 
 ## [1.2.0] - 2025-01-29
 

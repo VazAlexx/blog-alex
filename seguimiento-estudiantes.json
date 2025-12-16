@@ -3,11 +3,51 @@
     "nombre": "Agustinagnz",
     "github_usuario": "Agustinagnz",
     "url_repositorio": "https://github.com/Agustinagnz/proyecto-modelado-2025",
-    "estado_proyecto": "Pendiente",
+    "estado_proyecto": "En curso",
     "calificacion_final": null,
-    "feedback_general": "",
-    "prs": [],
-    "ultima_actualizacion": "2025-11-05T00:00:00Z"
+    "feedback_general": "Instrucciones detalladas publicadas en PRs #8 y #25 (2025-11-18): guía para crear PRs correctamente y completar Clase 4 con versión independiente. Fork tiene Issues deshabilitados.",
+    "prs": [
+      {
+        "numero": 8,
+        "titulo": "Descripción de diagrama y caso de uso \"Leer Artículo\" (clase 1)",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/8",
+        "estado": "OPEN",
+        "creado_en": "2025-11-07T22:38:16Z",
+        "mergeado_en": null,
+        "archivos": [
+          { "path": "README.md", "additions": 3, "deletions": 0 },
+          { "path": "casos_de_uso/casos-uso-institucion-digital-agustinagnz.drawio", "additions": 34, "deletions": 0 },
+          { "path": "casos_de_uso/casos-uso-institucion-digital-agustinagnz.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "clase-1-introduccion-uml.md", "additions": 32, "deletions": 1 },
+          { "path": "diagramas/diagrama_clase.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "diagramas/diagrama_flujo.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "diagramas/diagrama_flujos.png", "additions": 0, "deletions": 0, "binary": true }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/8#issuecomment-3505328441",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/8#issuecomment-3550105122"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Clase 1: Buen avance con descripción y caso de uso. Requiere mantener 'Institución Digital', plantilla de casos de uso, subir .drawio y referenciar PNG, ajustar formato y encabezados."
+        }
+      },
+      {
+        "numero": 25,
+        "titulo": "Comentarios",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/25",
+        "estado": "OPEN",
+        "creado_en": "2025-11-19T00:54:48Z",
+        "mergeado_en": null,
+        "archivos": [],
+        "comentarios_docente": [],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "PR nuevo creado desde rama 'comentarios'. Pendiente revisión de contenido."
+        }
+      }
+    ],
+    "ultima_actualizacion": "2025-11-19T01:15:00Z"
   },
   {
     "nombre": "AlejandroPardo98",
@@ -32,36 +72,69 @@
   {
     "nombre": "Anmonte",
     "github_usuario": "Anmonte",
-    "url_repositorio": "https://github.com/Anmonte/proyecto-modelado-2025",
+    "url_repositorio": "https://github.com/Anmonte/vane_legui-blog",
     "estado_proyecto": "En curso",
     "calificacion_final": null,
-    "feedback_general": "",
+    "feedback_general": "Feedback consolidado en Issue #1: https://github.com/Anmonte/vane_legui-blog/issues/1#issuecomment-3550063488. Nuevas Issues creadas (2025-11-18): Issue #2 guía PRs (https://github.com/Anmonte/vane_legui-blog/issues/2), Issue #3 Clase 4 finalización (https://github.com/Anmonte/vane_legui-blog/issues/3)",
     "prs": [
       {
         "numero": 4,
-        "titulo": "Descripcion del diagrama de caso de uso",
+        "titulo": "Sistema de categorías + versión independiente vane_legui-blog v1.1.0",
         "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/4",
         "estado": "OPEN",
         "creado_en": "2025-11-05T01:29:32Z",
         "mergeado_en": null,
         "archivos": [
-          {
-            "path": "clase-1-introduccion-uml.md",
-            "additions": 39,
-            "deletions": 1,
-            "binary": false
-          }
+          { "path": "CHANGELOG.md", "additions": 17, "deletions": 0 },
+          { "path": "README.md", "additions": 215, "deletions": 0 },
+          { "path": "clase-1-introduccion-uml.md", "additions": 39, "deletions": 1 },
+          { "path": "diagramadeflujo.md", "additions": 205, "deletions": 0 },
+          { "path": "image.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "mermaid-diagram-2025-11-11-155133.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "mermaid-diagram-2025-11-11-162438.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "mermaid-diagram-2025-11-11-165629.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "mermaid-diagram-2025-11-14-225533.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "mermaid-diagram-2025-11-14-232908.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "scripts/decode_pako.py", "additions": 0, "deletions": 0 }
         ],
         "comentarios_docente": [
-          "https://github.com/IES9018/proyecto-modelado-2025/pull/4#issuecomment-3488770361"
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/4#issuecomment-3488770361",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/4#issuecomment-3535023543"
         ],
         "evaluacion": {
           "nota": null,
-          "observaciones": "Descripción clara. Sugerido estandarizar encabezados, flujo numerado, evitar cortes de palabra y agregar newline final."
+          "observaciones": "Actualizado al 2025-11-18: el PR incluye README, CHANGELOG y múltiples imágenes de diagramas generadas desde Mermaid (posibles contenidos de Clases 2/3). Se considera Clase 2 entregada a nivel de imágenes (PNG). En su fork existen 'clase-3-principios-patrones-arquitecturas.md' y 'clase-4-fork-independiente.md'; falta abrir PRs correspondientes. Pendiente: agregar archivos fuente (.drawio), normalizar nombres (kebab-case) y documentación .md por diagrama."
+        }
+      },
+      {
+        "numero": 18,
+        "titulo": "Feature/comentarios",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/18",
+        "estado": "OPEN",
+        "creado_en": "2025-11-14T14:30:00Z",
+        "mergeado_en": null,
+        "archivos": [
+          {
+            "path": "clase-1-introduccion-uml.md",
+            "additions": 90,
+            "deletions": 0
+          },
+          {
+            "path": "diagramadeflujo.md",
+            "additions": 117,
+            "deletions": 0
+          }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/18#issuecomment-3535159224"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Se agregó contenido de la clase 1 y un diagrama de flujo en formato markdown. El formato y la estructura son correctos. Es recomendable adjuntar el archivo fuente del diagrama (.drawio) para facilitar revisiones."
         }
       }
     ],
-    "ultima_actualizacion": "2025-11-05T01:40:00Z"
+    "ultima_actualizacion": "2025-11-19T01:15:00Z"
   },
   {
     "nombre": "Chamaheleonn",
@@ -76,10 +149,10 @@
   {
     "nombre": "ClaudioMPerez",
     "github_usuario": "ClaudioMPerez",
-    "url_repositorio": "https://github.com/ClaudioMPerez/proyecto-modelado-claudio-2025",
+    "url_repositorio": "https://github.com/ClaudioMPerez/blog-claudio",
     "estado_proyecto": "En curso",
     "calificacion_final": null,
-    "feedback_general": "",
+    "feedback_general": "Fork renombrado a 'blog-claudio'. Feedback inicial en PR #5: https://github.com/IES9018/proyecto-modelado-2025/pull/5#issuecomment-3505424097 (2025-11-07). Actualización 2025-11-19: Excelente progreso técnico! Implementó v1.0.0 y v1.1.0 con sistema de etiquetas, usa Conventional Commits, trabaja con branches feature y PRs internos. Issues creadas para completar documentación académica de Clases 1-4: https://github.com/ClaudioMPerez/blog-claudio/issues (issues #6, #7, #8, #9).",
     "prs": [
       {
         "numero": 5,
@@ -90,22 +163,48 @@
         "mergeado_en": null,
         "archivos": [
           {
-            "path": "casos_de_uso/casos de uso autor y visitante.drawio.png",
+            "path": "imgs_claudio/casos_de_uso/casos de uso autor y visitante.drawio.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "imgs_claudio/clase 3/diagrama mvc.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "imgs_claudio/diagramas/diagrama de actividad.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "imgs_claudio/diagramas/diagrama de clases.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "imgs_claudio/diagramas/diagrama de secuencia.png",
             "additions": 0,
             "deletions": 0,
             "binary": true
           }
         ],
         "comentarios_docente": [
-          "https://github.com/IES9018/proyecto-modelado-2025/pull/5#issuecomment-3488769556"
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/5#issuecomment-3488769556",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/5#issuecomment-3505424097",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/5#issuecomment-3550336589"
         ],
         "evaluacion": {
           "nota": null,
-          "observaciones": "Agregar fuente .drawio, README breve en carpeta, renombrar archivos sin espacios y referenciar desde Markdown."
+          "observaciones": "Actualización 2025-11-19: Claudio ha avanzado significativamente en su fork 'blog-claudio'. Implementó versionado semántico (v1.0.0 -> v1.1.0), sistema de etiquetas many-to-many, CHANGELOG actualizado, usa Conventional Commits correctamente (feat:, docs:), trabaja con branches feature y PRs internos en su fork (#3 mergeado con GPG signature). Último commit: 2025-11-19 01:51Z. Necesita: documentación formal de Clases 1-3, crear tags Git y releases en GitHub, pulir README como landing page. Issues creadas: #6, #7, #8, #9 en blog-claudio. Trabajo técnico excelente, falta solo documentación académica."
         }
       }
     ],
-    "ultima_actualizacion": "2025-11-05T01:40:00Z"
+    "ultima_actualizacion": "2025-11-19T02:10:00Z"
   },
   {
     "nombre": "Damian-Coria",
@@ -118,19 +217,73 @@
     "ultima_actualizacion": "2025-11-05T00:00:00Z"
   },
   {
-    "nombre": "Eze",
+    "nombre": "Ezequiel Molina",
     "github_usuario": "Ezem700",
-    "url_repositorio": "https://github.com/Ezem700/proyecto-modelado-2025",
-    "estado_proyecto": "Pendiente",
+    "url_repositorio": "https://github.com/Ezem700/EzeBlog",
+    "estado_proyecto": "En curso",
     "calificacion_final": null,
-    "feedback_general": "",
-    "prs": [],
-    "ultima_actualizacion": "2025-11-05T00:00:00Z"
+    "feedback_general": "Issue de feedback: https://github.com/Ezem700/EzeBlog/issues/1 (2025-11-18). Feedback en PRs: #22 https://github.com/IES9018/proyecto-modelado-2025/pull/22#issuecomment-3549992328 y #23 https://github.com/IES9018/proyecto-modelado-2025/pull/23#issuecomment-3549992072. Issues Clase 4 en su fork: #3 https://github.com/Ezem700/EzeBlog/issues/3, #4 https://github.com/Ezem700/EzeBlog/issues/4, #5 https://github.com/Ezem700/EzeBlog/issues/5",
+    "prs": [
+      {
+        "numero": 22,
+        "titulo": "Entrega Fase 1 – Ezequiel Molina",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/22",
+        "estado": "OPEN",
+        "creado_en": "2025-11-18T18:29:34Z",
+        "actualizado_en": "2025-11-18T22:14:15Z",
+        "mergeado_en": null,
+        "archivos": [
+          { "path": ".gitignore", "additions": 14, "deletions": 34 },
+          { "path": "CHANGELOG.md", "additions": 13, "deletions": 74 },
+          { "path": "Clase1/Diagrama-clase1.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase1/caso_de_uso_publicar_articulo.md", "additions": 17, "deletions": 0 },
+          { "path": "Clase2/Diagrama_de_clases.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase2/Diagrama_de_secuencia.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase2/DiagramadeActividadprocesoPublicarArtículo.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase2/diagrama-casos-uso-v2.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase3/clase3diagrama-mvc.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase3/diagrama-clases-refactor-v3.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "Clase4/diagramasclase-categoria.drawio.png", "additions": 0, "deletions": 0, "binary": true },
+          { "path": "LICENSE", "additions": 21, "deletions": 0 },
+          { "path": "README.md", "additions": 19, "deletions": 77 }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/22#issuecomment-3549992328"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Entrega completa Clases 1-4. Estructura profesional con carpetas organizadas, CHANGELOG, LICENSE MIT, .gitignore personalizado, README EzeBlog. Feature único: Sistema de Categorías. Requiere: archivos .drawio fuente, documentación .md en cada carpeta, renombrar a kebab-case, consolidar CHANGELOG. Calificación estimada: 9.0/10"
+        }
+      },
+      {
+        "numero": 23,
+        "titulo": "Feature/clase4",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/23",
+        "estado": "OPEN",
+        "creado_en": "2025-11-18T21:00:34Z",
+        "mergeado_en": null,
+        "archivos": [
+          { "path": ".gitignore", "additions": 14, "deletions": 34 },
+          { "path": "CHANGELOG.md", "additions": 13, "deletions": 74 },
+          { "path": "Clase1/Diagrama-clase1.png", "additions": 0, "deletions": 0 },
+          { "path": "LICENSE", "additions": 21, "deletions": 0 },
+          { "path": "README.md", "additions": 19, "deletions": 77 }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/23#issuecomment-3549992072"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "PR duplicado del #22. Contenido similar pero menos completo (falta Clase4). Recomendado: consolidar en PR #22 y cerrar este. Aprendizaje: un PR por feature/entrega, evitar duplicados."
+        }
+      }
+    ],
+    "ultima_actualizacion": "2025-11-19T01:12:02Z"
   },
   {
     "nombre": "Jesica1487",
     "github_usuario": "Jesica1487",
-    "url_repositorio": "https://github.com/Jesica1487/proyecto-modelado-2025",
+    "url_repositorio": "https://github.com/Jesica1487/proyecto-modelado-jesi",
     "estado_proyecto": "En curso",
     "calificacion_final": null,
     "feedback_general": "",
@@ -160,29 +313,174 @@
           "nota": null,
           "observaciones": "Cambio correcto para PowerShell; revertido por política educativa. Además mergeó PR #2 de Camila sin autorización."
         }
+      },
+      {
+        "numero": 21,
+        "titulo": "Checklist de cierre Clase 4",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/21",
+        "estado": "OPEN",
+        "archivos": [],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/21#issuecomment-3550105238"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Checklist publicado para completar Clase 4 y normalizaciones (.drawio, kebab-case, Conventional Commits, documentación)."
+        }
       }
     ],
-    "ultima_actualizacion": "2025-11-05T01:40:00Z"
+    "ultima_actualizacion": "2025-11-18T23:59:00Z"
   },
   {
     "nombre": "KrellLeonardo",
     "github_usuario": "KrellLeonardo",
-    "url_repositorio": "https://github.com/KrellLeonardo/proyecto-modelado-2025",
+    "url_repositorio": "https://github.com/KrellLeonardo/proyecto-leonardo",
     "estado_proyecto": "Pendiente",
     "calificacion_final": null,
-    "feedback_general": "",
+    "feedback_general": "Issue de feedback creado en fork: https://github.com/KrellLeonardo/proyecto-leonardo/issues/5 (2025-11-18). Orientación completa paso a paso para abrir PRs por cada clase y completar el proyecto.",
     "prs": [],
-    "ultima_actualizacion": "2025-11-05T00:00:00Z"
+    "ultima_actualizacion": "2025-11-18T23:59:00Z"
   },
   {
     "nombre": "Lautaro Lopez",
     "github_usuario": "LL1121",
-    "url_repositorio": "https://github.com/LL1121/proyecto-modelado-2025",
+    "url_repositorio": "https://github.com/LL1121/LautaroBlog",
     "estado_proyecto": "En curso",
     "calificacion_final": null,
-    "feedback_general": "",
-    "prs": [],
-    "ultima_actualizacion": "2025-11-05T01:40:00Z"
+    "feedback_general": "Excelente progreso con identidad clara (LautaroBlog v1.0.0). 3 CU completos (incluyendo CU03 moderación único), 5 diagramas PNG, README/CHANGELOG/Roadmap personalizados, commits convencionales. Feedback detallado 2025-11-19: https://github.com/IES9018/proyecto-modelado-2025/pull/9#issuecomment-3550379803. Pendientes críticos: archivos .drawio, organización carpetas, LICENSE, renombrar kebab-case. Issues fork: #1-6 (Clases 1-4), #7 (Guía GitHub CLI): https://github.com/LL1121/LautaroBlog/issues/7.",
+    "prs": [
+      {
+        "numero": 9,
+        "titulo": "Creación de los casos de uso del programa",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/9",
+        "estado": "OPEN",
+        "creado_en": "2025-11-07T23:17:20Z",
+        "mergeado_en": null,
+        "archivos": [
+          {
+            "path": "CU01PublicarArticulo.md",
+            "additions": 15,
+            "deletions": 0
+          },
+          {
+            "path": "CU02LeerArticulo.md",
+            "additions": 26,
+            "deletions": 0
+          },
+          {
+            "path": "CU03ModerarComentario.md",
+            "additions": 28,
+            "deletions": 0
+          },
+          {
+            "path": "DiagramaDeClases.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaDeSecuencia.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaDeActividad.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaDeFrecuencia.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaMVC.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "CHANGELOG.md",
+            "additions": 8,
+            "deletions": 81
+          },
+          {
+            "path": "README.md",
+            "additions": 15,
+            "deletions": 87
+          }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/9#issuecomment-3505339167",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/9#issuecomment-3550105168",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/9#issuecomment-3550379803",
+          "https://github.com/LL1121/LautaroBlog/issues/1",
+          "https://github.com/LL1121/LautaroBlog/issues/4",
+          "https://github.com/LL1121/LautaroBlog/issues/5",
+          "https://github.com/LL1121/LautaroBlog/issues/6",
+          "https://github.com/LL1121/LautaroBlog/issues/7"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "PR #9 (2025-11-19): Progreso excelente - 3 CU detallados (CU03 moderación único), 5 diagramas PNG, README/CHANGELOG personalizados, commits convencionales. Estado: Clase 1 80%, Clase 2 60% (faltan .drawio), Clase 3 90%, Clase 4 95% (falta LICENSE). Pendiente: .drawio, carpetas (casos_de_uso/, diagramas/), kebab-case, LICENSE, newlines. Último commit: 2025-11-19 01:54:46Z. Issue #7 creada con guía completa GitHub CLI y workflow para cerrar Issues verificando checklist."
+        }
+      },
+      {
+        "numero": 14,
+        "titulo": "Se añadieron diagramas de Clases, Secuencia y Actividad",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/14",
+        "estado": "CLOSED",
+        "creado_en": "2025-11-08T00:13:11Z",
+        "mergeado_en": null,
+        "archivos": [
+          {
+            "path": "CU01PublicarArticulo.md",
+            "additions": 15,
+            "deletions": 0
+          },
+          {
+            "path": "CU02LeerArticulo.md",
+            "additions": 26,
+            "deletions": 0
+          },
+          {
+            "path": "DiagramaUML.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaDeClases.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaDeSecuencia.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          },
+          {
+            "path": "DiagramaDeActividad.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/14#issuecomment-3505460302"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Clases 1 y 2: Duplicaba contenido de PR #9 más nuevos diagramas clase 2. PR cerrado por docente - se instruyó consolidar todo en PR #9 para mantener workflow Git ordenado."
+        }
+      }
+    ],
+    "ultima_actualizacion": "2025-11-19T02:25:00Z"
   },
   {
     "nombre": "VazAlexx",
@@ -207,18 +505,72 @@
           "nota": null,
           "observaciones": "Buen proceso: fork/PR correcto; se mantiene abierto como evidencia para evaluación."
         }
+      },
+      {
+        "numero": 10,
+        "titulo": "agrego diagramas de clase, secuencia y actividad en clase 2",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/10",
+        "estado": "OPEN",
+        "creado_en": "2025-11-07T22:40:00Z",
+        "mergeado_en": null,
+        "archivos": [
+          {
+            "path": "clase-2-diagramas-uml.md",
+            "additions": 22,
+            "deletions": 1
+          }
+        ],
+        "comentarios_docente": [],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Clase 2: Diagramas de clases, secuencia y actividad. Incluye mención de Administrador. Pendiente: feedback programado, agregar archivos .drawio, ajustar nombres, documentación."
+        }
+      },
+      {
+        "numero": 13,
+        "titulo": "Agrego diagrama MVC y comentario en clase 3",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/13",
+        "estado": "OPEN",
+        "creado_en": "2025-11-07T23:58:00Z",
+        "mergeado_en": null,
+        "archivos": [
+          {
+            "path": "clase-3-principios-patrones-arquitecturas.md",
+            "additions": 7,
+            "deletions": 1
+          },
+          {
+            "path": "img-diagrama-clase3/desktop.ini",
+            "additions": 2,
+            "deletions": 0
+          },
+          {
+            "path": "img-diagrama-clase3/diagrama-mvc.png",
+            "additions": 0,
+            "deletions": 0,
+            "binary": true
+          }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/13#issuecomment-3505439143",
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/13#issuecomment-3550105404"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Clase 3: Agrega diagrama MVC. Requiere: eliminar desktop.ini, agregar newline al final, incluir .drawio fuente, expandir documentación. Segundo PR activo, buen ritmo de trabajo."
+        }
       }
     ],
-    "ultima_actualizacion": "2025-11-05T01:40:00Z",
+    "ultima_actualizacion": "2025-11-18T23:59:00Z",
     "no_en_lista_estudiantes": true
   },
   {
     "nombre": "Camila",
     "github_usuario": "Milasch23",
-    "url_repositorio": "https://github.com/Milasch23/proyecto-modelado-2025",
+    "url_repositorio": "https://github.com/Milasch23/camila-blog",
     "estado_proyecto": "En curso",
     "calificacion_final": null,
-    "feedback_general": "",
+    "feedback_general": "Issue de feedback: https://github.com/Milasch23/camila-blog/issues/3 (2025-11-18). Feedback en PR #24: https://github.com/IES9018/proyecto-modelado-2025/pull/24#issuecomment-3549991994",
     "prs": [
       {
         "numero": 2,
@@ -246,8 +598,77 @@
           "nota": null,
           "observaciones": "Bien encaminado; mergeado sin autorización por Jesica1487, revertido para mantener proceso educativo."
         }
+      },
+      {
+        "numero": 15,
+        "titulo": "Clase 2 Diagramas",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/15",
+        "estado": "OPEN",
+        "creado_en": "2025-11-08T00:20:14Z",
+        "mergeado_en": null,
+        "archivos": [
+          { "path": "clase2Diagramas.md", "additions": 88, "deletions": 0 }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/15#issuecomment-3505627048"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Clase 2: Aporta contenido en un archivo nuevo. Requiere alinear nombre de archivo a kebab-case e integrar con 'clase-2-diagramas-uml.md', verificar estructura, agregar .drawio si incluye diagramas, y newline final."
+        }
+      },
+      {
+        "numero": 17,
+        "titulo": "Clases 2 y 3",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/17",
+        "estado": "CLOSED",
+        "creado_en": "2025-11-14T14:00:00Z",
+        "cerrado_en": "2025-11-15T00:41:16Z",
+        "mergeado_en": null,
+        "archivos": [
+          { "path": "clase2Diagramas.md", "additions": 88, "deletions": 0 },
+          { "path": "clase3Actividad.md", "additions": 97, "deletions": 0 }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/17#issuecomment-3535159224"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "PR cerrado, contenido consolidado en PR #24."
+        }
+      },
+      {
+        "numero": 24,
+        "titulo": "Camila cambios clase4 readme",
+        "url": "https://github.com/IES9018/proyecto-modelado-2025/pull/24",
+        "estado": "OPEN",
+        "creado_en": "2025-11-18T23:03:07Z",
+        "mergeado_en": null,
+        "archivos": [
+          { "path": "README.md", "additions": 9, "deletions": 85 },
+          { "path": "clase2Diagramas.md", "additions": 88, "deletions": 0 },
+          { "path": "clase3Actividad.md", "additions": 97, "deletions": 0 },
+          { "path": "clase4.md", "additions": 188, "deletions": 0 }
+        ],
+        "comentarios_docente": [
+          "https://github.com/IES9018/proyecto-modelado-2025/pull/24#issuecomment-3549991994"
+        ],
+        "evaluacion": {
+          "nota": null,
+          "observaciones": "Entrega completa y profesional Clases 1-4. CamilaBlog con 6 features únicas: likes, categorías, etiquetas, borradores, estadísticas, gestión usuarios. Diagramas Mermaid excelentes (casos uso, clases, secuencia, actividad). Arquitectura MVC y patrón Facade bien documentados. README personalizado profesional. Requiere: archivos .drawio fuente, CHANGELOG.md, renombrar a kebab-case, organizar en carpetas, newline final. Calificación estimada: 9.5/10"
+        }
       }
     ],
-    "ultima_actualizacion": "2025-11-05T16:20:00Z"
+    "ultima_actualizacion": "2025-11-18T23:03:07Z"
+  },
+  {
+    "nombre": "faustocartier-77",
+    "github_usuario": "faustocartier-77",
+    "url_repositorio": "https://github.com/faustocartier-77/proyecto-modelado-2025",
+    "estado_proyecto": "Pendiente",
+    "calificacion_final": null,
+    "feedback_general": "",
+    "prs": [],
+    "ultima_actualizacion": "2025-11-05T00:00:00Z"
   }
 ]
